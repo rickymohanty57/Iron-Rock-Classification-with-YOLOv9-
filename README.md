@@ -137,5 +137,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Ricky Mohanty** (Reg. No. 202000358)
 - Guided by **Mr. Sanjay Kumar**, Data Scientist, CSM Technologies
 
-Feel free to reach out if you have any questions or suggestions! 😊
 
